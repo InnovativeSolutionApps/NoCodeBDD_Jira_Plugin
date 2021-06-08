@@ -1,8 +1,5 @@
 package main;
 
-import jira.ConfigConstants;
-
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
